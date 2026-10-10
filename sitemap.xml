@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://YOUR-SITE-URL with the real deployed address before submitting to search engines. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-SITE-URL/index.html</loc></url>
+  <url><loc>https://YOUR-SITE-URL/products.html</loc></url>
+  <url><loc>https://YOUR-SITE-URL/about.html</loc></url>
+  <url><loc>https://YOUR-SITE-URL/contact.html</loc></url>
+</urlset>
